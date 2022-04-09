@@ -1,0 +1,8 @@
+Etapas que segui:
+-Criei repositório no GitHub
+-Abri o Git com o botão direito do mouse numa pasta que criei
+-Usei o comando "git clone (link do repositório GitHub)
+-Usei 'git status' para ver se é possivel enviar os arquivos
+-Usei 'git add .' para adicionar a pasta no controle de versão Local
+-Usei 'git commit -m "adicione um comentário aqui"' para criar um commit com comentário
+-Usei 'git push origin main' para enviar todos os commits localmente para a nuvem
